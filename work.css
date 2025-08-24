@@ -1,0 +1,41 @@
+header{
+    text-align:center;
+    padding: 5pt;
+    margin: auto;
+    text-decoration:red;
+}
+h1,h2
+   {
+    text-align: center;
+    font-size: 56px;
+   } 
+body
+{
+    background-image: url(logo.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat:no-repeat repeat;
+    
+}
+p
+{
+    font-size: 20px;
+}
+img
+   {
+    display: block;
+    margin: auto;
+    
+   }
+h3
+{
+    text-align: left;
+    font-size: 40px;
+}
+.gallery
+{
+    display: flex;
+    gap: 10px;
+    overflow-x: auto;
+    flex-direction: column;
+}
