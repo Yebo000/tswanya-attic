@@ -39,3 +39,8 @@ h3
     overflow-x: auto;
     flex-direction: column;
 }
+body{
+    margin: 20px;
+    padding: 20px;
+    direction: ltr;
+}
